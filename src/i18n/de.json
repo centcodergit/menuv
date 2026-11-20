@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "title": "Menuverse | Digitale QR-Speisekarten für Restaurants",
+    "description": "Menuverse erstellt digitale QR-Speisekarten für Restaurants, Cafés und Bars. Bringen Sie Ihre Speisekarte mit QR-Code, Live-Updates und mehrsprachiger Unterstützung auf den neuesten Stand. Jetzt kostenlos testen!"
+  },
+  "nav": {
+    "features": "Funktionen",
+    "howItWorks": "So funktioniert's",
+    "pricing": "Preise",
+    "login": "Anmelden",
+    "menu": "Menü",
+    "close": "Schließen",
+    "account": "Konto",
+    "logout": "Abmelden",
+    "admin": "Verwaltung"
+  },
+  "theme": {
+    "toLight": "Helles Design",
+    "toDark": "Dunkles Design"
+  },
+  "langTip": {
+    "title": "🌐 Sprache ändern",
+    "body": "Wählen Sie hier Ihre Sprache im 🌐-Menü.",
+    "ok": "OK"
+  },
+  "hero": {
+    "eyebrow": "Die digitale Revolution für Ihre Speisekarte",
+    "h1": {
+      "line1": "Verwandeln Sie Ihre Speisekarte in ein",
+      "line2": "digitales Erlebnis"
+    },
+    "subtitle": "Erstellen Sie beeindruckende, interaktive digitale Speisekarten, die Ihre Gäste begeistern und die Abläufe in Ihrem Betrieb vereinfachen.",
+    "ctaPrimary": "Kostenlos starten",
+    "ctaSecondary": "Demo ansehen",
+    "chip1": {
+      "title": "QR scannen",
+      "sub": "Sofortiger Zugriff"
+    },
+    "chip2": {
+      "title": "In Echtzeit",
+      "sub": "Live-Updates"
+    }
+  },
+  "phone": {
+    "name": "La Bella Italia",
+    "tagline": "Authentische italienische Küche",
+    "recipe": "Traditionelles Rezept",
+    "tabs": {
+      "starters": "Vorspeisen",
+      "pizza": "Pizza",
+      "pasta": "Pasta",
+      "desserts": "Desserts"
+    }
+  },
+  "features": {
+    "eyebrow": "Funktionen",
+    "title": "Alles, was Sie brauchen",
+    "lead": "Leistungsstarke Tools, mit denen Sie Ihre digitale Speisekarte mühelos erstellen und verwalten",
+    "qr": {
+      "title": "QR-Code-Speisekarten",
+      "body": "Erstellen Sie eigene QR-Codes, mit denen Ihre Gäste Ihre Speisekarte sofort auf dem eigenen Gerät aufrufen."
+    },
+    "live": {
+      "title": "Echtzeit-Updates",
+      "body": "Ändern Sie Preise, Gerichte oder Verfügbarkeit im Handumdrehen. Änderungen erscheinen sofort auf allen Geräten."
+    },
+    "templates": {
+      "title": "Elegante Vorlagen",
+      "body": "Wählen Sie aus Dutzenden professionell gestalteter Vorlagen, die zu Ihrer Markenidentität passen."
+    },
+    "languages": {
+      "title": "Mehrsprachige Speisekarte",
+      "body": "Begrüßen Sie internationale Gäste mit Speisekarten, die automatisch in mehreren Sprachen verfügbar sind."
+    },
+    "analytics": {
+      "title": "Analyse-Dashboard",
+      "body": "Verfolgen Sie die meistgesehenen Gerichte, Ihre Stoßzeiten und Kennzahlen zur Interaktion Ihrer Gäste."
+    },
+    "dietary": {
+      "title": "Ernährungsfilter",
+      "body": "Lassen Sie Ihre Gäste nach Ernährungsweise filtern: vegan, glutenfrei, Allergene und mehr."
+    },
+    "demo": {
+      "vegan": "Vegan",
+      "glutenFree": "Glutenfrei",
+      "allergens": "Allergene",
+      "live": "Live",
+      "views": "Aufrufe",
+      "peak": "Stoßzeiten"
+    }
+  },
+  "support": {
+    "eyebrow": "Live-Chat-Support",
+    "title": "Fragen? Wir sind für Sie da!",
+    "body": "Chatten Sie direkt mit unserem Team. Wir helfen Ihnen beim Einstieg, beantworten Ihre Fragen oder führen Sie durch unsere Tarife.",
+    "cta": "Chat starten",
+    "note": "* Zum Chatten ist eine Anmeldung erforderlich",
+    "preview": {
+      "reply": "Sehr gerne! Erzählen Sie uns von Ihrem Restaurant, und wir empfehlen Ihnen den passenden Tarif."
+    }
+  },
+  "how": {
+    "1": {
+      "title": "Konto erstellen",
+      "body": "Registrieren Sie sich in Sekunden und greifen Sie auf Ihr persönliches Dashboard zu."
+    },
+    "2": {
+      "title": "Website anfragen",
+      "body": "Verraten Sie uns ein paar Details zu Ihrem Wunschstil: Logo, Farben und Gesamtlook. Wir erstellen eine individuelle Website, die genau auf Ihre Wünsche und Erwartungen zugeschnitten ist und in kürzester Zeit bereitsteht."
+    },
+    "3": {
+      "title": "Speisekarte gestalten",
+      "body": "Fügen Sie Gerichte hinzu, laden Sie Fotos hoch, legen Sie Preise fest und passen Sie das Design an."
+    },
+    "4": {
+      "title": "Teilen & begeistern",
+      "body": "Wir erstellen Ihre individuellen QR-Codes und liefern sie Ihnen fertig, damit Sie sie sofort mit Ihren Gästen teilen können."
+    },
+    "eyebrow": "So einfach geht's",
+    "title": "In wenigen Minuten startklar",
+    "lead": "Der Einstieg mit Menuverse ist denkbar einfach",
+    "demo": {
+      "business": "Name des Betriebs",
+      "price": "Preis",
+      "table": "Tisch {n}"
+    }
+  },
+  "demo": {
+    "eyebrow": "In Aktion erleben",
+    "title": "Sehen Sie sich die Demo an",
+    "lead": "Sehen Sie, wie Menuverse das Speisekarten-Erlebnis eines Restaurants in nur wenigen Minuten verwandelt.",
+    "play": "Abspielen",
+    "videoTitle": "Menuverse-Demovideo"
+  },
+  "showcase": {
+    "eyebrow": "Echte Beispiele",
+    "title": "Erleben Sie Menuverse in Aktion",
+    "lead": "Wunderschöne digitale Speisekarten, gestaltet für Restaurants wie Ihres",
+    "cta": "Speisekarte ansehen",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "newTab": "(öffnet in neuem Tab)",
+    "frameTitle": "Speisekarte von {name}"
+  },
+  "pricing": {
+    "eyebrow": "Preise",
+    "title": "Der passende Tarif für jeden Betrieb",
+    "lead": "Starten Sie kostenlos und upgraden Sie, wenn Sie mehr brauchen",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "yearlyBadge": "20 % sparen + Gratis-Domain",
+    "firstMonth": "Im ersten Monat, danach {price}/Monat",
+    "billedYearly": "{total} jährlich abgerechnet",
+    "popular": "Am beliebtesten",
+    "getStarted": "Jetzt starten",
+    "contact": "Kontakt aufnehmen",
+    "currency": "Währung",
+    "billing": "Abrechnungszeitraum",
+    "regularPrice": "Regulärer Preis",
+    "chatPrefill": "Hallo! Ich interessiere mich für den {plan}-Tarif ({billing}, {currency}).",
+    "chatPrefillEnterprise": "Hallo! Ich interessiere mich für den Enterprise-Tarif.",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "Ideal für Cafés, Bars und Restaurants",
+        "features": [
+          "1 digitale Speisekarte",
+          "Basisvorlagen",
+          "E-Mail-Support",
+          "Eigenes Branding",
+          "Mehrere Sprachen (2 Sprachen)"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "tagline": "Für wachsende Restaurants",
+        "features": [
+          "Premium-Vorlagen",
+          "Analyse-Dashboard",
+          "Vorrangiger Support",
+          "Eigenes Branding",
+          "Mehrere Sprachen (bis zu 4 Sprachen)",
+          "KI-Vorschläge, die Titel verbessern und Zeit sparen"
+        ]
+      },
+      "devoted": {
+        "name": "Devoted",
+        "tagline": "Für leidenschaftliche Gastronomen",
+        "features": [
+          "Alles aus Professional",
+          "White Labelling",
+          "Mehrere Sprachen (bis zu 6 Sprachen)",
+          "Vorrangiger Support im Devoted-Tarif",
+          "Erweiterte Analysen",
+          "KI-Vorschläge, die Titel verbessern und Zeit sparen"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "tagline": "Für Restaurantketten",
+        "priceTop": "Preis",
+        "priceBottom": "auf Anfrage",
+        "features": [
+          "Alles aus Devoted",
+          "Dedizierter Support",
+          "Individuelle Integrationen",
+          "White Label als Option",
+          "Mengenrabatte",
+          "KI-Vorschläge, die Titel verbessern und Zeit sparen"
+        ]
+      }
+    }
+  },
+  "referral": {
+    "eyebrow": "Empfehlungsprogramm",
+    "title": "Holen Sie sich Ihre Speisekarte GRATIS!",
+    "body": "Teilen Sie die Begeisterung und sichern Sie sich Prämien! Werben Sie 3 Freunde und erhalten Sie eine komplette digitale Speisekarte völlig kostenlos.",
+    "learnMore": "Mehr erfahren",
+    "start": "Starten",
+    "dashboard": "Dashboard",
+    "step1": "Erstellen Sie Ihren Link",
+    "step2": "Teilen Sie ihn",
+    "step3": "Ihre Freunde erhalten 50 % Rabatt",
+    "step4": "3 Freunde werben = Speisekarte GRATIS",
+    "ticket": "GRATIS-SPEISEKARTE",
+    "you": "Sie",
+    "friend": "Freund",
+    "copy": "Kopieren",
+    "copied": "Kopiert!",
+    "progress": "{count} / 3 Freunde",
+    "linkLabel": "Ihr Empfehlungslink",
+    "share": "Teilen",
+    "shareText": "Holen Sie sich Ihre digitale Speisekarte mit 50 % Rabatt bei Menuverse: {link}",
+    "clicks": "Klicks",
+    "reward": "Prämie",
+    "status": {
+      "pending": "Ausstehend",
+      "earned": "Verdient",
+      "redeemed": "Eingelöst"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Bewertungen",
+    "title": "Was andere über uns sagen...",
+    "lead": "Lesen Sie, was unsere Kunden sagen",
+    "items": {
+      "anima": {
+        "quote": "Alles funktioniert hervorragend! Wir haben bereits begonnen, Fotos zu unserer Speisekarte hinzuzufügen, und alles läuft perfekt. Herzlichen Dank!",
+        "role": "Restaurant, Athen",
+        "circularText": "ATHENS ANIMA BISTRO ✦ RESTAURANT, ATHEN ✦"
+      }
+    }
+  },
+  "guide": {
+    "badge": "Demnächst",
+    "title": "Zwei neue Wege, dich in eine Speisekarte zu verlieben",
+    "lead": "Ein kuratierter Guide zu den besten Tischen der Welt und jeder Teller, den du in deinen Händen drehen kannst, bevor du bestellst.",
+    "a": {
+      "title": "Der Menuverse Guide",
+      "body": "Ein handverlesenes Netzwerk von Restaurants, für die sich die Reise lohnt, persönlich besucht und mit einem einzigen Emblem ausgezeichnet."
+    },
+    "b": {
+      "title": "Sieh dir das Gericht in 3D an",
+      "body": "Dreh jedes Gericht vor dir und betrachte es von allen Seiten, bevor du bestellst.",
+      "hint": "Zieh zum Entdecken"
+    },
+    "c": {
+      "label": "In Planung",
+      "title": "Kostenlose digitale Speisekarten, unterstützt von Partnern",
+      "body": "Wir planen Partnerschaften mit Brauereien, Spirituosen- und Erfrischungsgetränkeherstellern, damit Restaurants ihre digitale Speisekarte kostenlos erhalten. Im Gegenzug präsentiert die Speisekarte dezent die Getränke des Partners.",
+      "points": [
+        "Keine Kosten für das Restaurant",
+        "Dezente Getränkeempfehlungen in der Speisekarte",
+        "Gäste sehen die Speisekarte wie gewohnt"
+      ],
+      "partners": [
+        "Brauereien",
+        "Spirituosen",
+        "Erfrischungsgetränke"
+      ],
+      "sponsored": "Partner-Empfehlung",
+      "drink": "Bier vom Fass",
+      "free": "Kostenlos"
+    },
+    "footnote": "Zuerst in Menuverse-Restaurants verfügbar"
+  },
+  "cursor": {
+    "drag": "Ziehen"
+  },
+  "feedback": {
+    "eyebrow": "Ihre Meinung zählt",
+    "title": "Geben Sie uns Feedback",
+    "lead": "Helfen Sie uns, besser zu werden, und teilen Sie Ihre Erfahrungen und Vorschläge",
+    "name": "Ihr Name *",
+    "rating": "Wie würden Sie uns bewerten? *",
+    "purchased": "Haben Sie eine Speisekarte gekauft? *",
+    "yes": "Ja",
+    "no": "Nein",
+    "change": "Was würden Sie ändern? *",
+    "feature": "Welche Funktion wünschen Sie sich? *",
+    "submit": "Feedback senden",
+    "sending": "Wird gesendet…",
+    "star": "{n} von 5 Sternen",
+    "required": "Dieses Feld ist erforderlich",
+    "success": {
+      "title": "Vielen Dank!",
+      "body": "Wir haben Ihr Feedback erhalten."
+    },
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut."
+  },
+  "articles": {
+    "eyebrow": "Ratgeber & Artikel",
+    "title": "Digitale Speisekarte & QR-Menü: Alles, was du wissen musst",
+    "lead": "Erfahre, wie eine elektronische QR-Speisekarte dein Restaurant, Café oder deine Bar verändern kann: schnell, einfach und günstig.",
+    "read": "Artikel lesen",
+    "readTime": "⏱ {n} Min. Lesezeit",
+    "readerCta": "Starte kostenlos mit Menuverse",
+    "ctaStrip": {
+      "title": "Bereit, die digitale Speisekarte für dein Restaurant zu erstellen?",
+      "button": "Starte kostenlos"
+    },
+    "close": "Artikel schließen",
+    "prev": "Vorheriger Artikel",
+    "next": "Nächster Artikel"
+  },
+  "newsletter": {
+    "eyebrow": "Bleiben Sie informiert",
+    "title": "Abonnieren Sie unseren Newsletter",
+    "lead": "Erhalten Sie die neuesten Updates zu Funktionen, Tipps und exklusiven Angeboten direkt in Ihr Postfach.",
+    "emailLabel": "Ihre E-Mail-Adresse",
+    "submit": "Abonnieren",
+    "privacy": "🔒 Wir respektieren Ihre Privatsphäre. Abmeldung jederzeit möglich.",
+    "success": "Willkommen! Bis bald in Ihrem Postfach.",
+    "duplicate": "Sie sind bereits angemeldet.",
+    "invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "placeholders": [
+      "info@ihr-restaurant.de",
+      "kueche@gasthaus.de",
+      "hallo@cafe.de"
+    ]
+  },
+  "final": {
+    "title": "Bereit für Ihre digitale Speisekarte?",
+    "body": "Schließen Sie sich Tausenden von Restaurants an, die Menuverse bereits nutzen",
+    "cta": "Jetzt kostenlos starten"
+  },
+  "footer": {
+    "brand": "Menuverse",
+    "description": "Wir gestalten moderne digitale Speisekarten für professionelle Gastronomen in ganz Griechenland.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© {year} Menuverse. Alle Rechte vorbehalten.",
+    "wordmark": "MENUVERSE",
+    "reduceMotion": "Bewegung reduzieren",
+    "col": {
+      "navigate": "Navigation",
+      "legal": "Rechtliches"
+    }
+  },
+  "chat": {
+    "name": "Menuverse",
+    "greeting": "👋 Hallo! Brauchen Sie Hilfe mit einer digitalen Speisekarte oder QR-Codes? Ich bin für Sie da!",
+    "signInRequired": "* Zum Chatten ist eine Anmeldung erforderlich",
+    "signIn": "Anmelden",
+    "placeholder": "Nachricht schreiben...",
+    "send": "Senden",
+    "online": "Online",
+    "open": "Chat öffnen",
+    "typing": "Schreibt…",
+    "error": "Nachricht nicht gesendet. Bitte versuchen Sie es erneut.",
+    "you": "Sie",
+    "team": "Menuverse-Team",
+    "empty": "Beginnen Sie das Gespräch mit einer Nachricht.",
+    "unread": "{count} neue Nachrichten"
+  },
+  "login": {
+    "back": "Zurück",
+    "title": "Willkommen zurück",
+    "subtitle": "Willkommen",
+    "google": "Weiter mit Google",
+    "microsoft": "Weiter mit Microsoft",
+    "or": "oder",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "forgot": "Passwort vergessen?",
+    "submit": "Anmelden",
+    "noAccount": "Noch kein Konto? Registrieren",
+    "noAccountPrompt": "Noch kein Konto?",
+    "registerLink": "Registrieren",
+    "haveAccountPrompt": "Sie haben bereits ein Konto?",
+    "signInLink": "Anmelden",
+    "registerTitle": "Konto erstellen",
+    "registerSubtitle": "Starten Sie in wenigen Minuten mit Menuverse",
+    "registerSubmit": "Konto erstellen",
+    "passwordHint": "Mindestens 8 Zeichen",
+    "showPassword": "Passwort anzeigen",
+    "hidePassword": "Passwort verbergen",
+    "otpTitle": "Bestätigen Sie Ihre E-Mail",
+    "otpBody": "Wir haben einen 6-stelligen Code an {email} gesendet.",
+    "otpLabel": "Bestätigungscode",
+    "otpSubmit": "Bestätigen",
+    "otpResend": "Neuen Code senden",
+    "otpResent": "Ein neuer Code ist unterwegs.",
+    "forgotTitle": "Passwort zurücksetzen",
+    "forgotBody": "Geben Sie Ihre E-Mail ein und wir senden Ihnen einen Link zum Zurücksetzen.",
+    "forgotSubmit": "Link senden",
+    "forgotSent": "Falls ein Konto mit dieser E-Mail existiert, ist der Link unterwegs.",
+    "backToSignIn": "Zurück zur Anmeldung",
+    "errorCredentials": "Falsche E-Mail oder falsches Passwort.",
+    "errorExists": "Für diese E-Mail gibt es bereits ein Konto.",
+    "errorOtp": "Der Code ist falsch oder abgelaufen.",
+    "errorPassword": "Das Passwort braucht mindestens 8 Zeichen.",
+    "errorEmail": "Bitte geben Sie eine gültige E-Mail ein.",
+    "signedIn": "Sie sind bereits als {email} angemeldet.",
+    "continue": "Weiter",
+    "plan": "Gewähltes Paket: {plan} · {billing}",
+    "working": "Bitte warten…",
+    "legal": "Mit dem Fortfahren akzeptieren Sie die {terms} und die {privacy}."
+  },
+  "notFound": {
+    "title": "Diese Seite steht nicht auf der Karte.",
+    "cta": "Zurück zur Startseite"
+  },
+  "legal": {
+    "back": "Zurück zur Startseite",
+    "contents": "Inhalt",
+    "lastUpdated": "Zuletzt aktualisiert: {date}",
+    "openChat": "Nachrichtensystem öffnen",
+    "englishOnly": "Diese Seite ist nur auf Englisch verfügbar."
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen",
+    "language": "Sprache",
+    "home": "Menuverse, Startseite",
+    "mainNav": "Hauptnavigation"
+  },
+  "common": {
+    "loading": "Wird geladen…",
+    "prev": "Zurück",
+    "next": "Weiter",
+    "error": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+    "retry": "Erneut versuchen"
+  },
+  "experience": {
+    "eyebrow": "Ihr Erlebnis",
+    "title": "Wie möchten Sie Menuverse sehen?",
+    "lead": "Diese Website ist mit Bewegungsgrafiken und 3D gestaltet. Wählen Sie das Erlebnis, das am besten zu Ihrem Gerät passt.",
+    "recommended": "Empfohlen",
+    "load": "Gerätelast",
+    "choose": "Auswählen",
+    "full": {
+      "title": "Volles Erlebnis",
+      "body": "Alle Grafiken, 3D-Szenen und Animationen, wie gestaltet.",
+      "points": [
+        "Live-3D und Lichteffekte",
+        "Bewegung, die Ihrem Scrollen folgt",
+        "Ideal für moderne Computer"
+      ]
+    },
+    "light": {
+      "title": "Leichtes Erlebnis",
+      "body": "Derselbe Inhalt, mit sanften Übergängen und weniger Last.",
+      "points": [
+        "Ohne 3D und aufwendige Effekte",
+        "Schneller auf jedem Gerät",
+        "Schont den Akku"
+      ]
+    },
+    "note": "Sie können dies jederzeit mit dem Schalter „{toggle}“ unten auf der Seite ändern."
+  },
+  "admin": {
+    "title": "Verwaltung",
+    "subtitle": "Menuverse-Kontrollzentrum",
+    "tabs": {
+      "inbox": "Posteingang",
+      "feedback": "Feedback",
+      "newsletter": "Newsletter",
+      "referrals": "Empfehlungen"
+    },
+    "search": "Suchen…",
+    "empty": "Hier ist noch nichts.",
+    "selectConversation": "Wählen Sie eine Unterhaltung.",
+    "replyPlaceholder": "Antwort schreiben…",
+    "send": "Senden",
+    "open": "Offen",
+    "closed": "Geschlossen",
+    "closeConversation": "Unterhaltung schließen",
+    "reopen": "Wieder öffnen",
+    "unread": "Ungelesen",
+    "col": {
+      "name": "Name",
+      "email": "E-Mail",
+      "rating": "Bewertung",
+      "purchased": "Gekauft",
+      "change": "Würde ändern",
+      "feature": "Gewünschte Funktion",
+      "language": "Sprache",
+      "date": "Datum",
+      "source": "Quelle",
+      "referrer": "Nutzer",
+      "code": "Code",
+      "clicks": "Besuche",
+      "signups": "Anmeldungen",
+      "status": "Belohnung"
+    },
+    "exportCsv": "CSV exportieren",
+    "subscribers": "{n} Abonnenten",
+    "purchasedMark": "Gekauft",
+    "saved": "Gespeichert",
+    "sortBy": "Sortieren nach {column}"
+  }
+}

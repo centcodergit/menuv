@@ -1,0 +1,20 @@
+{
+  "name": "ExchangeRateCache",
+  "type": "object",
+  "properties": {
+    "base": { "type": "string", "default": "EUR" },
+    "rates": {
+      "type": "object",
+      "description": "Rates per 1 EUR, e.g. { \"USD\": 1.08 }",
+      "additionalProperties": { "type": "number" }
+    },
+    "fetched_at": { "type": "string", "format": "date-time" }
+  },
+  "required": ["base", "rates", "fetched_at"],
+  "rls": {
+    "read": { "user_condition": { "role": "admin" } },
+    "create": { "user_condition": { "role": "admin" } },
+    "update": { "user_condition": { "role": "admin" } },
+    "delete": { "user_condition": { "role": "admin" } }
+  }
+}

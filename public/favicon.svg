@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Placeholder mark (QR modules) until the real Menuverse logo is uploaded. -->
+  <rect width="32" height="32" rx="8" fill="#050507"/>
+  <g fill="#8B5CF6">
+    <rect x="6" y="6" width="8" height="8" rx="1.5"/>
+    <rect x="18" y="6" width="8" height="8" rx="1.5"/>
+    <rect x="6" y="18" width="8" height="8" rx="1.5"/>
+    <rect x="18" y="18" width="3.5" height="3.5" rx="0.8" fill="#C4B5FD"/>
+    <rect x="22.5" y="22.5" width="3.5" height="3.5" rx="0.8" fill="#C4B5FD"/>
+  </g>
+</svg>

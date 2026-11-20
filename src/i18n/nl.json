@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "title": "Menuverse | Digitale QR-menu's voor restaurants",
+    "description": "Menuverse maakt digitale QR-menu's voor restaurants, cafés en bars. Geef uw menu een upgrade met een QR-code, live updates en meertalige ondersteuning. Probeer het gratis!"
+  },
+  "nav": {
+    "features": "Functies",
+    "howItWorks": "Hoe het werkt",
+    "pricing": "Prijzen",
+    "login": "Inloggen",
+    "menu": "Menu",
+    "close": "Sluiten",
+    "account": "Account",
+    "logout": "Uitloggen",
+    "admin": "Beheer"
+  },
+  "theme": {
+    "toLight": "Licht thema",
+    "toDark": "Donker thema"
+  },
+  "langTip": {
+    "title": "🌐 Taal wijzigen",
+    "body": "Kies hier uw taal in het 🌐-menu.",
+    "ok": "OK"
+  },
+  "hero": {
+    "eyebrow": "De digitale revolutie voor uw menu",
+    "h1": {
+      "line1": "Maak van uw menu een",
+      "line2": "digitale beleving"
+    },
+    "subtitle": "Creëer indrukwekkende, interactieve digitale menu's die uw gasten boeien en de dagelijkse gang van zaken in uw restaurant vereenvoudigen.",
+    "ctaPrimary": "Gratis starten",
+    "ctaSecondary": "Bekijk de demo",
+    "chip1": {
+      "title": "Scan de QR",
+      "sub": "Direct toegang"
+    },
+    "chip2": {
+      "title": "Realtime",
+      "sub": "Live updates"
+    }
+  },
+  "phone": {
+    "name": "La Bella Italia",
+    "tagline": "Authentieke Italiaanse keuken",
+    "recipe": "Traditioneel recept",
+    "tabs": {
+      "starters": "Voorgerechten",
+      "pizza": "Pizza",
+      "pasta": "Pasta",
+      "desserts": "Desserts"
+    }
+  },
+  "features": {
+    "eyebrow": "Functies",
+    "title": "Alles wat u nodig hebt",
+    "lead": "Krachtige tools om uw digitale menu moeiteloos te maken en te beheren",
+    "qr": {
+      "title": "QR-codemenu's",
+      "body": "Genereer unieke QR-codes die uw gasten scannen om uw menu direct op hun eigen apparaat te bekijken."
+    },
+    "live": {
+      "title": "Realtime updates",
+      "body": "Wijzig prijzen, gerechten of beschikbaarheid in een handomdraai. Wijzigingen zijn meteen zichtbaar op alle apparaten."
+    },
+    "templates": {
+      "title": "Prachtige templates",
+      "body": "Kies uit tientallen professioneel ontworpen templates die passen bij de identiteit van uw merk."
+    },
+    "languages": {
+      "title": "Meertalige menu's",
+      "body": "Bedien internationale gasten met menu's die automatisch in meerdere talen beschikbaar zijn."
+    },
+    "analytics": {
+      "title": "Analysedashboard",
+      "body": "Volg welke gerechten het meest bekeken worden, wanneer uw piekuren zijn en hoe betrokken uw gasten zijn."
+    },
+    "dietary": {
+      "title": "Dieetfilters",
+      "body": "Laat gasten filteren op dieetwensen: vegan, glutenvrij, allergenen en meer."
+    },
+    "demo": {
+      "vegan": "Vegan",
+      "glutenFree": "Glutenvrij",
+      "allergens": "Allergenen",
+      "live": "Live",
+      "views": "Weergaven",
+      "peak": "Piekuren"
+    }
+  },
+  "support": {
+    "eyebrow": "Livechat-support",
+    "title": "Vragen? Wij helpen u graag!",
+    "body": "Chat rechtstreeks met ons team. We helpen u op weg, beantwoorden al uw vragen of begeleiden u bij de keuze uit onze pakketten.",
+    "cta": "Start een gesprek",
+    "note": "* Inloggen vereist om te chatten",
+    "preview": {
+      "reply": "Natuurlijk! Vertel ons over uw restaurant, dan adviseren we u het juiste pakket."
+    }
+  },
+  "how": {
+    "1": {
+      "title": "Maak uw account aan",
+      "body": "Registreer u in enkele seconden en krijg toegang tot uw persoonlijke dashboard."
+    },
+    "2": {
+      "title": "Vraag uw website aan",
+      "body": "Vertel ons wat u voor ogen hebt: logo, kleuren en de algehele uitstraling. Wij maken een website op maat, volledig afgestemd op uw wensen en verwachtingen, en in een mum van tijd klaar."
+    },
+    "3": {
+      "title": "Stel uw menu samen",
+      "body": "Voeg gerechten toe, upload foto's, stel prijzen in en pas het ontwerp aan."
+    },
+    "4": {
+      "title": "Deel uw menu",
+      "body": "Wij genereren uw unieke QR-codes en leveren ze kant-en-klaar aan, zodat u ze meteen met uw gasten kunt delen."
+    },
+    "eyebrow": "Eenvoudig proces",
+    "title": "Binnen enkele minuten aan de slag",
+    "lead": "Beginnen met Menuverse is ongelooflijk eenvoudig",
+    "demo": {
+      "business": "Bedrijfsnaam",
+      "price": "Prijs",
+      "table": "Tafel {n}"
+    }
+  },
+  "demo": {
+    "eyebrow": "Zie het in actie",
+    "title": "Bekijk de demo",
+    "lead": "Zie hoe Menuverse de menubeleving van een restaurant in slechts enkele minuten transformeert.",
+    "play": "Afspelen",
+    "videoTitle": "Demovideo van Menuverse"
+  },
+  "showcase": {
+    "eyebrow": "Echte voorbeelden",
+    "title": "Bekijk Menuverse in actie",
+    "lead": "Prachtige digitale menu's, gemaakt voor restaurants zoals het uwe",
+    "cta": "Bekijk menu",
+    "prev": "Vorige",
+    "next": "Volgende",
+    "newTab": "(opent in een nieuw tabblad)",
+    "frameTitle": "Menu van {name}"
+  },
+  "pricing": {
+    "eyebrow": "Prijzen",
+    "title": "Een pakket voor elke zaak",
+    "lead": "Begin gratis en upgrade wanneer u meer nodig hebt",
+    "monthly": "Maandelijks",
+    "yearly": "Jaarlijks",
+    "yearlyBadge": "Bespaar 20% + gratis domein",
+    "firstMonth": "De eerste maand, daarna {price}/maand",
+    "billedYearly": "{total} per jaar gefactureerd",
+    "popular": "Meest gekozen",
+    "getStarted": "Aan de slag",
+    "contact": "Neem contact op",
+    "currency": "Valuta",
+    "billing": "Factureringsperiode",
+    "regularPrice": "Normale prijs",
+    "chatPrefill": "Hallo! Ik ben geïnteresseerd in het {plan}-pakket ({billing}, {currency}).",
+    "chatPrefillEnterprise": "Hallo! Ik ben geïnteresseerd in het Enterprise-pakket.",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "Perfect voor cafés, bars en restaurants",
+        "features": [
+          "1 digitaal menu",
+          "Basistemplates",
+          "Support via e-mail",
+          "Eigen branding",
+          "Meerdere talen (2 talen)"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "tagline": "Voor groeiende restaurants",
+        "features": [
+          "Premium templates",
+          "Analysedashboard",
+          "Support met voorrang",
+          "Eigen branding",
+          "Meerdere talen (tot 4 talen)",
+          "AI-suggesties om titels te verbeteren en tijd te besparen"
+        ]
+      },
+      "devoted": {
+        "name": "Devoted",
+        "tagline": "Voor toegewijde horecaondernemers",
+        "features": [
+          "Alles van Professional",
+          "White Labelling",
+          "Meerdere talen (tot 6 talen)",
+          "Support met voorrang voor Devoted",
+          "Geavanceerde analyses",
+          "AI-suggesties om titels te verbeteren en tijd te besparen"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "tagline": "Voor restaurantketens",
+        "priceTop": "Prijs",
+        "priceBottom": "op aanvraag",
+        "features": [
+          "Alles van Devoted",
+          "Toegewijde support",
+          "Integraties op maat",
+          "White Label als optie",
+          "Volumekortingen",
+          "AI-suggesties om titels te verbeteren en tijd te besparen"
+        ]
+      }
+    }
+  },
+  "referral": {
+    "eyebrow": "Doorverwijsprogramma",
+    "title": "Krijg uw menu GRATIS!",
+    "body": "Deel het enthousiasme en verdien beloningen! Verwijs 3 vrienden door en ontvang een compleet digitaal menu, helemaal gratis.",
+    "learnMore": "Meer weten",
+    "start": "Start",
+    "dashboard": "Dashboard",
+    "step1": "Maak uw link aan",
+    "step2": "Deel de link",
+    "step3": "Uw vrienden krijgen 50% korting",
+    "step4": "3 vrienden = GRATIS menu",
+    "ticket": "GRATIS MENU",
+    "you": "U",
+    "friend": "Vriend",
+    "copy": "Kopiëren",
+    "copied": "Gekopieerd!",
+    "progress": "{count} / 3 vrienden",
+    "linkLabel": "Uw verwijslink",
+    "share": "Delen",
+    "shareText": "Krijg uw digitale menukaart met 50% korting bij Menuverse: {link}",
+    "clicks": "Kliks",
+    "reward": "Beloning",
+    "status": {
+      "pending": "In afwachting",
+      "earned": "Verdiend",
+      "redeemed": "Ingewisseld"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Reviews",
+    "title": "Wat anderen over ons zeggen...",
+    "lead": "Lees wat onze klanten zeggen",
+    "items": {
+      "anima": {
+        "quote": "Alles werkt uitstekend! We zijn al begonnen met het toevoegen van foto's aan ons menu en alles werkt perfect. Heel erg bedankt!",
+        "role": "Restaurant, Athene",
+        "circularText": "ATHENS ANIMA BISTRO ✦ RESTAURANT, ATHENE ✦"
+      }
+    }
+  },
+  "guide": {
+    "badge": "Binnenkort",
+    "title": "Twee nieuwe manieren om verliefd te worden op een menu",
+    "lead": "Een zorgvuldig samengestelde gids met de beste tafels ter wereld, en elk gerecht dat je in je handen kunt draaien voordat je bestelt.",
+    "a": {
+      "title": "De Menuverse Gids",
+      "body": "Een met de hand geselecteerd netwerk van restaurants die een reis waard zijn, persoonlijk bezocht en gemarkeerd met één embleem."
+    },
+    "b": {
+      "title": "Bekijk het gerecht in 3D",
+      "body": "Draai elk gerecht voor je neus en bekijk het van alle kanten voordat je bestelt.",
+      "hint": "Sleep om te ontdekken"
+    },
+    "c": {
+      "label": "In voorbereiding",
+      "title": "Gratis digitale menukaarten, gesteund door partners",
+      "body": "We bereiden samenwerkingen voor met brouwerijen, producenten van sterke drank en frisdrank, zodat restaurants hun digitale menukaart gratis krijgen. In ruil daarvoor toont de menukaart de dranken van de partner op een subtiele manier.",
+      "points": [
+        "Geen kosten voor het restaurant",
+        "Subtiele drankaanbevelingen in de menukaart",
+        "Gasten zien de menukaart zoals altijd"
+      ],
+      "partners": [
+        "Brouwerijen",
+        "Sterke drank",
+        "Frisdrank"
+      ],
+      "sponsored": "Aanbevolen door partner",
+      "drink": "Tapbier",
+      "free": "Gratis"
+    },
+    "footnote": "Eerst beschikbaar bij Menuverse-restaurants"
+  },
+  "cursor": {
+    "drag": "Sleep"
+  },
+  "feedback": {
+    "eyebrow": "Uw mening telt",
+    "title": "Geef ons uw feedback",
+    "lead": "Help ons beter te worden door uw ervaringen en suggesties te delen",
+    "name": "Uw naam *",
+    "rating": "Hoe zou u ons beoordelen? *",
+    "purchased": "Hebt u een menu aangeschaft? *",
+    "yes": "Ja",
+    "no": "Nee",
+    "change": "Wat zou u veranderen? *",
+    "feature": "Welke functie zou u graag zien? *",
+    "submit": "Feedback versturen",
+    "sending": "Bezig met versturen…",
+    "star": "{n} van 5 sterren",
+    "required": "Dit veld is verplicht",
+    "success": {
+      "title": "Bedankt!",
+      "body": "We hebben uw feedback ontvangen."
+    },
+    "error": "Er is iets misgegaan. Probeer het opnieuw."
+  },
+  "articles": {
+    "eyebrow": "Gidsen & artikelen",
+    "title": "Digitaal menu & QR-menukaart: alles wat je moet weten",
+    "lead": "Ontdek hoe een elektronisch QR-menu je restaurant, café of bar kan transformeren: snel, eenvoudig en voordelig.",
+    "read": "Lees artikel",
+    "readTime": "⏱ {n} min. leestijd",
+    "readerCta": "Begin gratis met Menuverse",
+    "ctaStrip": {
+      "title": "Klaar om het digitale menu van je restaurant te maken?",
+      "button": "Begin gratis"
+    },
+    "close": "Artikel sluiten",
+    "prev": "Vorig artikel",
+    "next": "Volgend artikel"
+  },
+  "newsletter": {
+    "eyebrow": "Blijf op de hoogte",
+    "title": "Abonneer u op onze nieuwsbrief",
+    "lead": "Ontvang het laatste nieuws over functies, tips en exclusieve aanbiedingen in uw inbox.",
+    "emailLabel": "Uw e-mailadres",
+    "submit": "Abonneren",
+    "privacy": "🔒 Wij respecteren uw privacy. U kunt zich op elk moment afmelden.",
+    "success": "U bent erbij! Tot snel in uw inbox.",
+    "duplicate": "U bent al geabonneerd.",
+    "invalid": "Voer een geldig e-mailadres in.",
+    "placeholders": [
+      "info@uw-restaurant.nl",
+      "kok@eetcafe.nl",
+      "hallo@koffiebar.nl"
+    ]
+  },
+  "final": {
+    "title": "Klaar voor uw digitale menu?",
+    "body": "Sluit u aan bij duizenden restaurants die Menuverse al gebruiken",
+    "cta": "Start nu gratis"
+  },
+  "footer": {
+    "brand": "Menuverse",
+    "description": "Wij maken moderne digitale menu's voor professionele horecaondernemers in heel Griekenland.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© {year} Menuverse. Alle rechten voorbehouden.",
+    "wordmark": "MENUVERSE",
+    "reduceMotion": "Minder beweging",
+    "col": {
+      "navigate": "Navigatie",
+      "legal": "Juridisch"
+    }
+  },
+  "chat": {
+    "name": "Menuverse",
+    "greeting": "👋 Hallo! Hulp nodig met een digitaal menu of QR-code? Ik help u graag!",
+    "signInRequired": "* Inloggen vereist om te chatten",
+    "signIn": "Inloggen",
+    "placeholder": "Typ een bericht...",
+    "send": "Versturen",
+    "online": "Online",
+    "open": "Chat openen",
+    "typing": "Typt…",
+    "error": "Bericht niet verzonden. Probeer het opnieuw.",
+    "you": "U",
+    "team": "Menuverse-team",
+    "empty": "Begin het gesprek met een bericht.",
+    "unread": "{count} nieuwe berichten"
+  },
+  "login": {
+    "back": "Terug",
+    "title": "Welkom terug",
+    "subtitle": "Welkom",
+    "google": "Doorgaan met Google",
+    "microsoft": "Doorgaan met Microsoft",
+    "or": "of",
+    "email": "E-mail",
+    "password": "Wachtwoord",
+    "forgot": "Wachtwoord vergeten?",
+    "submit": "Inloggen",
+    "noAccount": "Nog geen account? Registreren",
+    "noAccountPrompt": "Nog geen account?",
+    "registerLink": "Registreren",
+    "haveAccountPrompt": "Heeft u al een account?",
+    "signInLink": "Inloggen",
+    "registerTitle": "Maak uw account aan",
+    "registerSubtitle": "Ga binnen enkele minuten aan de slag met Menuverse",
+    "registerSubmit": "Account aanmaken",
+    "passwordHint": "Minstens 8 tekens",
+    "showPassword": "Wachtwoord tonen",
+    "hidePassword": "Wachtwoord verbergen",
+    "otpTitle": "Bevestig uw e-mail",
+    "otpBody": "We hebben een 6-cijferige code naar {email} gestuurd.",
+    "otpLabel": "Bevestigingscode",
+    "otpSubmit": "Bevestigen",
+    "otpResend": "Nieuwe code sturen",
+    "otpResent": "Er is een nieuwe code onderweg.",
+    "forgotTitle": "Wachtwoord herstellen",
+    "forgotBody": "Vul uw e-mail in en we sturen u een herstellink.",
+    "forgotSubmit": "Link sturen",
+    "forgotSent": "Als er een account met dit e-mailadres bestaat, is de link onderweg.",
+    "backToSignIn": "Terug naar inloggen",
+    "errorCredentials": "Onjuist e-mailadres of wachtwoord.",
+    "errorExists": "Er bestaat al een account met dit e-mailadres.",
+    "errorOtp": "Deze code klopt niet of is verlopen.",
+    "errorPassword": "Het wachtwoord moet minstens 8 tekens hebben.",
+    "errorEmail": "Vul een geldig e-mailadres in.",
+    "signedIn": "U bent al ingelogd als {email}.",
+    "continue": "Doorgaan",
+    "plan": "Gekozen pakket: {plan} · {billing}",
+    "working": "Even geduld…",
+    "legal": "Door verder te gaan accepteert u de {terms} en het {privacy}."
+  },
+  "notFound": {
+    "title": "Deze pagina staat niet op het menu.",
+    "cta": "Terug naar home"
+  },
+  "legal": {
+    "back": "Terug naar home",
+    "contents": "Inhoud",
+    "lastUpdated": "Laatst bijgewerkt: {date}",
+    "openChat": "Berichtensysteem openen",
+    "englishOnly": "Deze pagina is alleen in het Engels beschikbaar."
+  },
+  "a11y": {
+    "skip": "Naar de inhoud",
+    "language": "Taal",
+    "home": "Menuverse, home",
+    "mainNav": "Hoofdnavigatie"
+  },
+  "common": {
+    "loading": "Laden…",
+    "prev": "Vorige",
+    "next": "Volgende",
+    "error": "Er is iets misgegaan. Probeer het opnieuw.",
+    "retry": "Opnieuw proberen"
+  },
+  "experience": {
+    "eyebrow": "Uw ervaring",
+    "title": "Hoe wilt u Menuverse bekijken?",
+    "lead": "Deze website is ontworpen met bewegende beelden en 3D. Kies de ervaring die het best bij uw apparaat past.",
+    "recommended": "Aanbevolen",
+    "load": "Belasting van het apparaat",
+    "choose": "Kiezen",
+    "full": {
+      "title": "Volledige ervaring",
+      "body": "Alle beelden, 3D en animaties, zoals ontworpen.",
+      "points": [
+        "Live 3D en lichteffecten",
+        "Beweging die uw scroll volgt",
+        "Ideaal voor moderne computers"
+      ]
+    },
+    "light": {
+      "title": "Lichte ervaring",
+      "body": "Dezelfde inhoud, met zachte overgangen en minder belasting.",
+      "points": [
+        "Zonder 3D of zware effecten",
+        "Sneller op elk apparaat",
+        "Spaart uw batterij"
+      ]
+    },
+    "note": "U kunt dit altijd wijzigen met de schakelaar ‘{toggle}’ onderaan de pagina."
+  },
+  "admin": {
+    "title": "Beheer",
+    "subtitle": "Menuverse-dashboard",
+    "tabs": {
+      "inbox": "Inbox",
+      "feedback": "Feedback",
+      "newsletter": "Nieuwsbrief",
+      "referrals": "Verwijzingen"
+    },
+    "search": "Zoeken…",
+    "empty": "Hier staat nog niets.",
+    "selectConversation": "Kies een gesprek.",
+    "replyPlaceholder": "Schrijf een antwoord…",
+    "send": "Versturen",
+    "open": "Open",
+    "closed": "Gesloten",
+    "closeConversation": "Gesprek sluiten",
+    "reopen": "Heropenen",
+    "unread": "Ongelezen",
+    "col": {
+      "name": "Naam",
+      "email": "E-mail",
+      "rating": "Beoordeling",
+      "purchased": "Gekocht",
+      "change": "Zou veranderen",
+      "feature": "Gewenste functie",
+      "language": "Taal",
+      "date": "Datum",
+      "source": "Bron",
+      "referrer": "Gebruiker",
+      "code": "Code",
+      "clicks": "Bezoeken",
+      "signups": "Aanmeldingen",
+      "status": "Beloning"
+    },
+    "exportCsv": "CSV exporteren",
+    "subscribers": "{n} abonnees",
+    "purchasedMark": "Gekocht",
+    "saved": "Opgeslagen",
+    "sortBy": "Sorteren op {column}"
+  }
+}

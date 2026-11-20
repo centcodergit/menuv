@@ -1,0 +1,23 @@
+{
+  "name": "Feedback",
+  "type": "object",
+  "properties": {
+    "name": { "type": "string", "maxLength": 120, "description": "Name given by the visitor" },
+    "rating": { "type": "number", "minimum": 1, "maximum": 5, "description": "Star rating, 1 to 5" },
+    "purchased_menu": { "type": "boolean", "description": "Has the visitor purchased a menu?" },
+    "change_request": { "type": "string", "maxLength": 4000, "description": "What would you change?" },
+    "feature_request": { "type": "string", "maxLength": 4000, "description": "What feature would you love to see?" },
+    "language": {
+      "type": "string",
+      "enum": ["el", "en", "de", "fr", "es", "it", "pt", "nl"],
+      "description": "Site language when submitted"
+    }
+  },
+  "required": ["name", "rating", "purchased_menu", "change_request", "feature_request"],
+  "rls": {
+    "create": {},
+    "read": { "$or": [{ "created_by_id": "{{user.id}}" }, { "user_condition": { "role": "admin" } }] },
+    "update": { "user_condition": { "role": "admin" } },
+    "delete": { "user_condition": { "role": "admin" } }
+  }
+}

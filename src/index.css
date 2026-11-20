@@ -1,0 +1,368 @@
+/* Fonts: all four families include Greek glyphs (checked against the Fontsource packages). */
+@import "@fontsource-variable/commissioner/wght.css";
+@import "@fontsource-variable/inter/wght.css";
+@import "@fontsource-variable/jetbrains-mono/wght.css";
+@import "@fontsource/noto-serif-display/400-italic.css";
+@import "@fontsource/noto-serif-display/500-italic.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ------------------------------------------------------------------
+   Tokens. :root = "Porcelain" (light). .dark = "Nocturne" (default).
+   --mv-* colour tokens are RGB channels so Tailwind opacity modifiers work
+   (bg-mv-violet-500/20). shadcn variables are HSL channels.
+------------------------------------------------------------------- */
+@layer base {
+  :root {
+    /* Porcelain */
+    --mv-void: 250 250 249;
+    --mv-ink: 244 243 248;
+    --mv-surface: 255 255 255;
+    --mv-surface-2: 241 238 250;
+    --mv-line: rgba(11, 11, 18, 0.08);
+    --mv-line-strong: rgba(11, 11, 18, 0.16);
+    --mv-text: 11 11 18;
+    --mv-muted: 85 85 106;
+    /* On porcelain the violet scale shifts darker so accents stay readable (AA). */
+    --mv-violet-200: 91 33 182;
+    --mv-violet-300: 109 40 217;
+    --mv-violet-400: 124 58 237;
+    --mv-violet-500: 124 58 237;
+    --mv-violet-600: 109 40 217;
+    --mv-plum-800: 237 233 254;
+    --mv-orchid: 192 38 211;
+    --mv-champagne: 161 128 59;
+    --mv-success: 5 150 105;
+    --mv-danger: 220 38 38;
+
+    --mv-text-gradient: linear-gradient(180deg, #0b0b12 0%, #6d28d9 60%, #8b5cf6 100%);
+    --mv-aurora: radial-gradient(60% 50% at 50% 0%, rgba(167, 139, 250, 0.28), transparent 70%);
+    --mv-glass-bg: rgba(255, 255, 255, 0.66);
+    --mv-glass-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.9);
+    --mv-vignette: radial-gradient(120% 90% at 50% 40%, transparent 55%, rgba(250, 250, 249, 0.85) 100%);
+    --mv-grain-opacity: 0.035;
+
+    --background: 60 9% 98%;
+    --foreground: 240 24% 6%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 24% 6%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 24% 6%;
+    --primary: 262 83% 58%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 252 30% 95%;
+    --secondary-foreground: 240 24% 6%;
+    --muted: 252 30% 95%;
+    --muted-foreground: 240 10% 37%;
+    --accent: 252 30% 95%;
+    --accent-foreground: 240 24% 6%;
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 240 20% 90%;
+    --input: 240 20% 90%;
+    --ring: 262 83% 58%;
+    --radius: 1.25rem;
+    --chart-1: 262 83% 58%;
+    --chart-2: 258 90% 66%;
+    --chart-3: 255 92% 76%;
+    --chart-4: 292 84% 61%;
+    --chart-5: 161 94% 30%;
+    --sidebar-background: 0 0% 100%;
+    --sidebar-foreground: 240 24% 6%;
+    --sidebar-primary: 262 83% 58%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 252 30% 95%;
+    --sidebar-accent-foreground: 240 24% 6%;
+    --sidebar-border: 240 20% 90%;
+    --sidebar-ring: 262 83% 58%;
+
+    --font-heading: "Commissioner Variable", system-ui, sans-serif;
+    --font-body: "Inter Variable", system-ui, sans-serif;
+    --font-display: "Commissioner Variable", system-ui, sans-serif;
+    --nav-offset: 96px;
+  }
+
+  .dark {
+    /* Nocturne */
+    --mv-void: 5 5 7;
+    --mv-ink: 10 10 16;
+    --mv-surface: 16 16 24;
+    --mv-surface-2: 22 22 31;
+    --mv-line: rgba(255, 255, 255, 0.08);
+    --mv-line-strong: rgba(255, 255, 255, 0.14);
+    --mv-text: 245 243 255;
+    --mv-muted: 161 161 181;
+    --mv-violet-200: 221 214 254;
+    --mv-violet-300: 196 181 253;
+    --mv-violet-400: 167 139 250;
+    --mv-violet-500: 139 92 246;
+    --mv-violet-600: 124 58 237;
+    --mv-plum-800: 46 16 101;
+    --mv-orchid: 232 121 249;
+    --mv-champagne: 233 216 166;
+    --mv-success: 52 211 153;
+    --mv-danger: 248 113 113;
+
+    --mv-text-gradient: linear-gradient(180deg, #f5f3ff 0%, #c4b5fd 55%, #8b5cf6 100%);
+    --mv-aurora: radial-gradient(60% 50% at 50% 0%, rgba(124, 58, 237, 0.35), transparent 70%);
+    --mv-glass-bg: rgba(16, 16, 24, 0.6);
+    --mv-glass-highlight: inset 0 1px 0 rgba(255, 255, 255, 0.06);
+    --mv-vignette: radial-gradient(120% 90% at 50% 40%, transparent 50%, rgba(5, 5, 7, 0.92) 100%);
+    --mv-grain-opacity: 0.05;
+
+    --background: 240 17% 2%;
+    --foreground: 250 100% 98%;
+    --card: 240 20% 8%;
+    --card-foreground: 250 100% 98%;
+    --popover: 240 20% 8%;
+    --popover-foreground: 250 100% 98%;
+    --primary: 258 90% 66%;
+    --primary-foreground: 0 0% 100%;
+    --secondary: 240 17% 10%;
+    --secondary-foreground: 250 100% 98%;
+    --muted: 240 17% 10%;
+    --muted-foreground: 240 12% 67%;
+    --accent: 240 17% 12%;
+    --accent-foreground: 250 100% 98%;
+    --destructive: 0 91% 71%;
+    --destructive-foreground: 240 17% 2%;
+    --border: 240 9% 11%;
+    --input: 240 9% 14%;
+    --ring: 258 90% 66%;
+    --chart-1: 258 90% 66%;
+    --chart-2: 255 92% 76%;
+    --chart-3: 251 91% 95%;
+    --chart-4: 292 91% 73%;
+    --chart-5: 158 64% 52%;
+    --sidebar-background: 240 20% 6%;
+    --sidebar-foreground: 250 100% 98%;
+    --sidebar-primary: 258 90% 66%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 17% 12%;
+    --sidebar-accent-foreground: 250 100% 98%;
+    --sidebar-border: 240 9% 11%;
+    --sidebar-ring: 258 90% 66%;
+  }
+}
+
+/* ------------------------------------------------------------------
+   Base
+------------------------------------------------------------------- */
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    color-scheme: light;
+    -webkit-text-size-adjust: 100%;
+    overflow-x: clip;
+  }
+  html.dark {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-mv-void font-sans text-mv-text antialiased;
+    font-size: 16px;
+    line-height: 1.6;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "cv11", "ss01";
+    overflow-x: clip;
+  }
+  @media (min-width: 1024px) {
+    body {
+      font-size: 17px;
+    }
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    text-wrap: balance;
+  }
+
+  ::selection {
+    background: rgb(var(--mv-violet-500) / 0.35);
+    color: rgb(var(--mv-text));
+  }
+
+  /* Visible violet focus ring on every interactive element (2px + 2px offset). */
+  :focus-visible {
+    outline: 2px solid rgb(var(--mv-violet-400));
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+
+  /*
+   * Designed system cursor (desktop with a mouse only): a dark glass arrow with a light edge and
+   * a faint violet glow; links and buttons get the violet arrow. It is a real OS cursor (no lag).
+   * Sources: public/cursors/*.svg, rasterised to 1x/2x PNG so it stays crisp on Retina screens.
+   * Hotspot is the arrow tip (5, 3).
+   */
+  @media (hover: hover) and (pointer: fine) {
+    html,
+    body {
+      cursor: url("/cursors/arrow.png") 5 3, auto;
+      cursor: -webkit-image-set(url("/cursors/arrow.png") 1x, url("/cursors/arrow@2x.png") 2x) 5 3, auto;
+      cursor: image-set(url("/cursors/arrow.png") 1x, url("/cursors/arrow@2x.png") 2x) 5 3, auto;
+    }
+    :is(a[href], button:not(:disabled), [role="button"], [role="tab"], [role="menuitem"], [role="option"], label[for], summary, select, [data-cursor="link"], [data-cursor="media"], .cursor-pointer) {
+      cursor: url("/cursors/pointer.png") 5 3, pointer;
+      cursor: -webkit-image-set(url("/cursors/pointer.png") 1x, url("/cursors/pointer@2x.png") 2x) 5 3, pointer;
+      cursor: image-set(url("/cursors/pointer.png") 1x, url("/cursors/pointer@2x.png") 2x) 5 3, pointer;
+    }
+    :is(input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="submit"]):not([type="button"]), textarea, [contenteditable="true"]) {
+      cursor: text;
+    }
+    :is(button:disabled, [aria-disabled="true"], [data-disabled]) {
+      cursor: not-allowed;
+    }
+  }
+}
+
+/* ------------------------------------------------------------------
+   Materials & helpers
+------------------------------------------------------------------- */
+@layer components {
+  /* Obsidian glass: nav, popovers, chat, modals only (backdrop blur is expensive on mobile). */
+  .glass {
+    background: var(--mv-glass-bg);
+    -webkit-backdrop-filter: blur(20px) saturate(140%);
+    backdrop-filter: blur(20px) saturate(140%);
+    border: 1px solid var(--mv-line);
+    box-shadow: var(--mv-glass-highlight);
+  }
+
+  /* Stone cards: solid, hairline, no blur. */
+  .stone {
+    background: rgb(var(--mv-surface));
+    border: 1px solid var(--mv-line);
+  }
+
+  .text-gradient {
+    background-image: var(--mv-text-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+
+  .aurora {
+    background-image: var(--mv-aurora);
+  }
+
+  /* Shiny Text (React Bits technique) over the text gradient: a light sheen sweeps across every 7s. */
+  .text-sheen {
+    background-image: linear-gradient(110deg, transparent 42%, rgba(255, 255, 255, 0.75) 50%, transparent 58%), var(--mv-text-gradient);
+    background-size: 260% 100%, 100% 100%;
+    background-repeat: no-repeat;
+    background-position: 160% 0, 0 0;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    animation: mv-sheen 7s cubic-bezier(0.76, 0, 0.24, 1) 2.5s infinite;
+  }
+  @keyframes mv-sheen {
+    0%,
+    68% {
+      background-position: 160% 0, 0 0;
+    }
+    100% {
+      background-position: -60% 0, 0 0;
+    }
+  }
+
+  /* Border Beam (fx/BorderBeam.jsx) travels along offset-path: rect(...). */
+  @keyframes border-beam {
+    from {
+      offset-distance: 0%;
+    }
+    to {
+      offset-distance: 100%;
+    }
+  }
+
+  /* While SplitText has a gradient line split into characters, each character carries the vertical gradient
+     itself (identical look, since the gradient runs top to bottom). */
+  .text-gradient .split-char,
+  .text-sheen .split-char {
+    background-image: var(--mv-text-gradient);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+  }
+
+  .eyebrow {
+    @apply inline-flex items-center gap-2 rounded-full border border-mv-line px-3.5 py-1.5 font-mono text-label font-medium uppercase text-mv-violet-300;
+    background: rgb(var(--mv-surface) / 0.6);
+  }
+
+  .btn-primary {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full px-6 py-3 font-medium text-white transition-[filter,transform] duration-300 ease-mv-out;
+    background: linear-gradient(180deg, #8b5cf6, #6d28d9);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.25),
+      0 0 0 1px rgba(139, 92, 246, 0.5),
+      0 8px 32px -8px rgba(139, 92, 246, 0.6);
+  }
+  .btn-primary:hover {
+    filter: brightness(1.08);
+  }
+
+  .btn-outline {
+    @apply inline-flex min-h-[44px] items-center justify-center gap-2 rounded-full border border-mv-line-strong px-6 py-3 font-medium text-mv-text transition-colors duration-300 ease-mv-out hover:border-mv-violet-400/60 hover:bg-mv-violet-500/10;
+  }
+
+  /* overflow-x: clip (not hidden) keeps decorative glows from widening the page on phones without creating a
+     scroll container, so sticky/pinned children still work. */
+  .section {
+    @apply relative py-section;
+    overflow-x: clip;
+  }
+  .container-mv {
+    @apply mx-auto w-full max-w-content px-gutter;
+  }
+}
+
+@layer utilities {
+  .font-serif-italic {
+    font-family: "Noto Serif Display", Georgia, serif;
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .skip-link {
+    @apply sr-only focus:not-sr-only focus:fixed focus:left-4 focus:top-4 focus:z-curtain focus:rounded-full focus:bg-mv-surface focus:px-4 focus:py-2 focus:text-mv-text;
+  }
+}
+
+/* ------------------------------------------------------------------
+   Reduced motion (OS setting or the footer toggle, which sets
+   html[data-reduce-motion="true"]). Short fades only.
+------------------------------------------------------------------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 150ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+html[data-reduce-motion="true"] *,
+html[data-reduce-motion="true"] *::before,
+html[data-reduce-motion="true"] *::after {
+  animation-duration: 0.01ms !important;
+  animation-iteration-count: 1 !important;
+  transition-duration: 150ms !important;
+}

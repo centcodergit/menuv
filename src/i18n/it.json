@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "title": "Menuverse | Menu digitali QR per ristoranti",
+    "description": "Menuverse crea menu digitali QR per ristoranti, caffè e bar. Rinnovate il vostro menu con un codice QR, aggiornamenti in tempo reale e supporto multilingue. Provatelo gratis!"
+  },
+  "nav": {
+    "features": "Funzionalità",
+    "howItWorks": "Come funziona",
+    "pricing": "Prezzi",
+    "login": "Accedi",
+    "menu": "Menu",
+    "close": "Chiudi",
+    "account": "Account",
+    "logout": "Esci",
+    "admin": "Amministrazione"
+  },
+  "theme": {
+    "toLight": "Tema chiaro",
+    "toDark": "Tema scuro"
+  },
+  "langTip": {
+    "title": "🌐 Cambia lingua",
+    "body": "Scegliete la vostra lingua dal menu 🌐 qui.",
+    "ok": "OK"
+  },
+  "hero": {
+    "eyebrow": "La rivoluzione del menu digitale",
+    "h1": {
+      "line1": "Trasformate il vostro menu in",
+      "line2": "un'esperienza digitale moderna"
+    },
+    "subtitle": "Realizzate menu digitali interattivi e d'effetto, che conquistano i vostri clienti e semplificano la gestione del vostro ristorante.",
+    "ctaPrimary": "Provatelo gratis",
+    "ctaSecondary": "Guardate la demo",
+    "chip1": {
+      "title": "Scansionate il QR",
+      "sub": "Accesso immediato"
+    },
+    "chip2": {
+      "title": "In tempo reale",
+      "sub": "Aggiornamenti live"
+    }
+  },
+  "phone": {
+    "name": "La Bella Italia",
+    "tagline": "Autentica cucina italiana",
+    "recipe": "Ricetta della tradizione",
+    "tabs": {
+      "starters": "Antipasti",
+      "pizza": "Pizze",
+      "pasta": "Primi",
+      "desserts": "Dolci"
+    }
+  },
+  "features": {
+    "eyebrow": "Funzionalità",
+    "title": "Tutto ciò che vi serve",
+    "lead": "Strumenti potenti per creare e gestire i vostri menu digitali con facilità",
+    "qr": {
+      "title": "Menu con QR code",
+      "body": "I vostri clienti inquadrano il QR code e vedono subito il menu sul loro smartphone. Semplice e veloce."
+    },
+    "live": {
+      "title": "Aggiornamenti in tempo reale",
+      "body": "Modificate prezzi, piatti o disponibilità in pochi secondi. Le modifiche appaiono subito su tutti i dispositivi."
+    },
+    "templates": {
+      "title": "Template eleganti",
+      "body": "Scegliete tra decine di template professionali, in linea con l'identità del vostro brand."
+    },
+    "languages": {
+      "title": "Menu multilingue",
+      "body": "Accogliete clienti internazionali con menu disponibili automaticamente in più lingue."
+    },
+    "analytics": {
+      "title": "Statistiche e analisi",
+      "body": "Monitorate i piatti più visti, le ore di punta e il coinvolgimento dei clienti."
+    },
+    "dietary": {
+      "title": "Filtri alimentari",
+      "body": "I clienti filtrano in base alle loro preferenze alimentari: vegano, senza glutine, allergeni e altro ancora."
+    },
+    "demo": {
+      "vegan": "Vegano",
+      "glutenFree": "Senza glutine",
+      "allergens": "Allergeni",
+      "live": "Live",
+      "views": "Visualizzazioni",
+      "peak": "Ore di punta"
+    }
+  },
+  "support": {
+    "eyebrow": "Assistenza in diretta",
+    "title": "Avete domande? Siamo qui per aiutarvi!",
+    "body": "Parlate direttamente con il nostro team. Vi aiuteremo a iniziare, risponderemo a ogni domanda o vi guideremo tra i nostri piani.",
+    "cta": "Avviate una conversazione",
+    "note": "* È necessario accedere per iniziare la chat",
+    "preview": {
+      "reply": "Certo! Raccontateci del vostro ristorante e vi consiglieremo il piano giusto."
+    }
+  },
+  "how": {
+    "1": {
+      "title": "Registratevi",
+      "body": "Create il vostro account in pochi secondi e accedete alla vostra dashboard personalizzata."
+    },
+    "2": {
+      "title": "Richiedete il vostro sito",
+      "body": "Raccontateci lo stile che preferite: logo, colori e look generale. Creeremo un sito su misura per le vostre esigenze e aspettative, pronto in pochissimo tempo."
+    },
+    "3": {
+      "title": "Componete il menu",
+      "body": "Aggiungete i piatti, caricate le foto, impostate i prezzi e personalizzate il design."
+    },
+    "4": {
+      "title": "Condividete il menu",
+      "body": "Generiamo i vostri QR code unici e ve li consegniamo pronti da condividere subito con i vostri clienti."
+    },
+    "eyebrow": "In tutta semplicità",
+    "title": "Operativi in pochi minuti",
+    "lead": "Iniziare con Menuverse è incredibilmente semplice",
+    "demo": {
+      "business": "Nome dell'attività",
+      "price": "Prezzo",
+      "table": "Tavolo {n}"
+    }
+  },
+  "demo": {
+    "eyebrow": "Guardatelo in azione",
+    "title": "Guardate la demo",
+    "lead": "Scoprite come Menuverse trasforma l'esperienza del menu di un ristorante in pochi minuti.",
+    "play": "Riproduci",
+    "videoTitle": "Video dimostrativo di Menuverse"
+  },
+  "showcase": {
+    "eyebrow": "Esempi reali",
+    "title": "Scoprite Menuverse in azione",
+    "lead": "Splendidi menu digitali creati per ristoranti come il vostro",
+    "cta": "Scoprite il menu",
+    "prev": "Precedente",
+    "next": "Successivo",
+    "newTab": "(si apre in una nuova scheda)",
+    "frameTitle": "Il menu di {name}"
+  },
+  "pricing": {
+    "eyebrow": "Prezzi",
+    "title": "Un piano per ogni attività",
+    "lead": "Iniziate gratis e passate a un piano superiore quando vi serve di più",
+    "monthly": "Mensile",
+    "yearly": "Annuale",
+    "yearlyBadge": "Risparmiate il 20% + dominio gratis",
+    "firstMonth": "Per il primo mese, poi {price}/mese",
+    "billedYearly": "Fatturazione annuale di {total}",
+    "popular": "Il più scelto",
+    "getStarted": "Iniziate",
+    "contact": "Contattateci",
+    "currency": "Valuta",
+    "billing": "Periodo di fatturazione",
+    "regularPrice": "Prezzo pieno",
+    "chatPrefill": "Ciao! Mi interessa il piano {plan} ({billing}, {currency}).",
+    "chatPrefillEnterprise": "Ciao! Mi interessa il piano Enterprise.",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "Perfetto per caffè, bar e ristoranti",
+        "features": [
+          "1 menu digitale",
+          "Template di base",
+          "Supporto via email",
+          "Branding personalizzato",
+          "Multilingue (2 lingue)"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "tagline": "Per ristoranti in crescita",
+        "features": [
+          "Template premium",
+          "Dashboard di analisi",
+          "Supporto prioritario",
+          "Branding personalizzato",
+          "Multilingue (fino a 4 lingue)",
+          "Suggerimenti AI per migliorare i titoli e risparmiare tempo"
+        ]
+      },
+      "devoted": {
+        "name": "Devoted",
+        "tagline": "Per ristoratori appassionati",
+        "features": [
+          "Tutto ciò che include Professional",
+          "White Labelling",
+          "Multilingue (fino a 6 lingue)",
+          "Supporto prioritario Devoted",
+          "Analisi avanzate",
+          "Suggerimenti AI per migliorare i titoli e risparmiare tempo"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "tagline": "Per catene di ristoranti",
+        "priceTop": "Prezzo",
+        "priceBottom": "su misura",
+        "features": [
+          "Tutto ciò che include Devoted",
+          "Supporto dedicato",
+          "Integrazioni personalizzate",
+          "Opzione White Label",
+          "Sconti in base ai volumi",
+          "Suggerimenti AI per migliorare i titoli e risparmiare tempo"
+        ]
+      }
+    }
+  },
+  "referral": {
+    "eyebrow": "Programma Porta un amico",
+    "title": "Ottenete il vostro menu GRATIS!",
+    "body": "Spargete la voce, guadagnate premi! Invitate 3 amici e ottenete un menu digitale completo, assolutamente gratis.",
+    "learnMore": "Scoprite di più",
+    "start": "Iniziate",
+    "dashboard": "Dashboard",
+    "step1": "Generate il vostro link",
+    "step2": "Condividetelo",
+    "step3": "I vostri amici ottengono il 50% di sconto",
+    "step4": "Invitatene 3 = un menu GRATIS",
+    "ticket": "MENU GRATIS",
+    "you": "Voi",
+    "friend": "Amico",
+    "copy": "Copia",
+    "copied": "Copiato!",
+    "progress": "{count} / 3 amici",
+    "linkLabel": "Il vostro link di invito",
+    "share": "Condividi",
+    "shareText": "Ottenete il vostro menu digitale con il 50% di sconto su Menuverse: {link}",
+    "clicks": "Clic",
+    "reward": "Premio",
+    "status": {
+      "pending": "In attesa",
+      "earned": "Ottenuto",
+      "redeemed": "Riscattato"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Recensioni",
+    "title": "Dicono di noi...",
+    "lead": "Scoprite cosa dicono i nostri clienti",
+    "items": {
+      "anima": {
+        "quote": "Tutto funziona in modo eccezionale! Abbiamo già iniziato ad aggiungere le foto al nostro menu e va tutto alla perfezione. Grazie davvero!",
+        "role": "Ristorante, Atene",
+        "circularText": "ATHENS ANIMA BISTRO ✦ RISTORANTE, ATENE ✦"
+      }
+    }
+  },
+  "guide": {
+    "badge": "Prossimamente",
+    "title": "Due nuovi modi per innamorarti di un menu",
+    "lead": "Una guida selezionata alle migliori tavole del mondo, e ogni piatto da far girare tra le tue mani prima di ordinare.",
+    "a": {
+      "title": "La Guida Menuverse",
+      "body": "Una rete di ristoranti scelti uno per uno, che valgono il viaggio, visitati di persona e segnalati da un unico emblema."
+    },
+    "b": {
+      "title": "Guarda il piatto in 3D",
+      "body": "Ruota ogni piatto davanti a te e osservalo da ogni lato prima di ordinare.",
+      "hint": "Trascina per esplorare"
+    },
+    "c": {
+      "label": "In programma",
+      "title": "Menu digitali gratuiti, sostenuti da partner",
+      "body": "Stiamo programmando partnership con birrifici, aziende di alcolici e di bibite, così i ristoranti potranno avere il loro menu digitale gratis. In cambio, il menu mette discretamente in evidenza le bevande del partner.",
+      "points": [
+        "Costo zero per il ristorante",
+        "Suggerimenti di bevande discreti nel menu",
+        "I clienti vedono il menu come sempre"
+      ],
+      "partners": [
+        "Birrifici",
+        "Alcolici",
+        "Bibite"
+      ],
+      "sponsored": "In evidenza dal partner",
+      "drink": "Birra alla spina",
+      "free": "Gratis"
+    },
+    "footnote": "In arrivo prima nei ristoranti Menuverse"
+  },
+  "cursor": {
+    "drag": "Trascina"
+  },
+  "feedback": {
+    "eyebrow": "La vostra opinione conta",
+    "title": "Lasciateci il vostro feedback",
+    "lead": "Aiutateci a migliorare condividendo la vostra esperienza e i vostri suggerimenti",
+    "name": "Il vostro nome *",
+    "rating": "Che voto ci dareste? *",
+    "purchased": "Avete acquistato un menu? *",
+    "yes": "Sì",
+    "no": "No",
+    "change": "Cosa cambiereste? *",
+    "feature": "Quale funzionalità vorreste vedere? *",
+    "submit": "Invia feedback",
+    "sending": "Invio…",
+    "star": "{n} su 5 stelle",
+    "required": "Questo campo è obbligatorio",
+    "success": {
+      "title": "Grazie!",
+      "body": "Abbiamo ricevuto il vostro feedback."
+    },
+    "error": "Qualcosa è andato storto. Riprovate."
+  },
+  "articles": {
+    "eyebrow": "Guide e articoli",
+    "title": "Menu digitale e menu QR: tutto quello che devi sapere",
+    "lead": "Scopri come un menu elettronico con QR code può trasformare il tuo ristorante, caffè o bar: in modo rapido, semplice ed economico.",
+    "read": "Leggi l'articolo",
+    "readTime": "⏱ {n} min di lettura",
+    "readerCta": "Inizia gratis con Menuverse",
+    "ctaStrip": {
+      "title": "Pronto a creare il menu digitale del tuo ristorante?",
+      "button": "Inizia gratis"
+    },
+    "close": "Chiudi l'articolo",
+    "prev": "Articolo precedente",
+    "next": "Articolo successivo"
+  },
+  "newsletter": {
+    "eyebrow": "Restate aggiornati",
+    "title": "Iscrivetevi alla nostra newsletter",
+    "lead": "Ricevete nella vostra casella di posta le ultime novità sulle funzionalità, consigli e offerte esclusive.",
+    "emailLabel": "La vostra email",
+    "submit": "Iscrivetevi",
+    "privacy": "🔒 Rispettiamo la vostra privacy. Potete disiscrivervi in qualsiasi momento.",
+    "success": "Ci siete! A presto nella vostra casella di posta.",
+    "duplicate": "Siete già iscritti.",
+    "invalid": "Inserite un indirizzo email valido.",
+    "placeholders": [
+      "info@il-vostro-ristorante.it",
+      "chef@trattoria.it",
+      "ciao@caffe.it"
+    ]
+  },
+  "final": {
+    "title": "Pronti a digitalizzare il vostro menu?",
+    "body": "Unitevi alle migliaia di ristoranti che usano già Menuverse",
+    "cta": "Iniziate la prova gratuita"
+  },
+  "footer": {
+    "brand": "Menuverse",
+    "description": "Creiamo menu digitali moderni per ristoratori professionisti in tutta la Grecia.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© {year} Menuverse. Tutti i diritti riservati.",
+    "wordmark": "MENUVERSE",
+    "reduceMotion": "Riduci animazioni",
+    "col": {
+      "navigate": "Navigazione",
+      "legal": "Note legali"
+    }
+  },
+  "chat": {
+    "name": "Menuverse",
+    "greeting": "👋 Ciao! Vi serve aiuto con un menu digitale o un QR code? Sono qui!",
+    "signInRequired": "* È necessario accedere per iniziare la chat",
+    "signIn": "Accedi",
+    "placeholder": "Scrivete un messaggio...",
+    "send": "Invia",
+    "online": "Online",
+    "open": "Apri la chat",
+    "typing": "Sta scrivendo…",
+    "error": "Messaggio non inviato. Riprovate.",
+    "you": "Voi",
+    "team": "Team Menuverse",
+    "empty": "Iniziate la conversazione con un messaggio.",
+    "unread": "{count} nuovi messaggi"
+  },
+  "login": {
+    "back": "Indietro",
+    "title": "Bentornati",
+    "subtitle": "Benvenuti",
+    "google": "Continua con Google",
+    "microsoft": "Continua con Microsoft",
+    "or": "oppure",
+    "email": "Email",
+    "password": "Password",
+    "forgot": "Password dimenticata?",
+    "submit": "Accedi",
+    "noAccount": "Non avete un account? Registratevi",
+    "noAccountPrompt": "Non avete un account?",
+    "registerLink": "Registratevi",
+    "haveAccountPrompt": "Avete già un account?",
+    "signInLink": "Accedete",
+    "registerTitle": "Create il vostro account",
+    "registerSubtitle": "Iniziate con Menuverse in pochi minuti",
+    "registerSubmit": "Crea account",
+    "passwordHint": "Almeno 8 caratteri",
+    "showPassword": "Mostra password",
+    "hidePassword": "Nascondi password",
+    "otpTitle": "Confermate la vostra email",
+    "otpBody": "Abbiamo inviato un codice di 6 cifre a {email}.",
+    "otpLabel": "Codice di conferma",
+    "otpSubmit": "Conferma",
+    "otpResend": "Invia un nuovo codice",
+    "otpResent": "Un nuovo codice è in arrivo.",
+    "forgotTitle": "Reimposta la password",
+    "forgotBody": "Inserite la vostra email e vi invieremo un link per reimpostarla.",
+    "forgotSubmit": "Invia link",
+    "forgotSent": "Se esiste un account con questa email, il link è in arrivo.",
+    "backToSignIn": "Torna all’accesso",
+    "errorCredentials": "Email o password errate.",
+    "errorExists": "Esiste già un account con questa email.",
+    "errorOtp": "Il codice è errato o scaduto.",
+    "errorPassword": "La password deve avere almeno 8 caratteri.",
+    "errorEmail": "Inserite un’email valida.",
+    "signedIn": "Avete già effettuato l’accesso come {email}.",
+    "continue": "Continua",
+    "plan": "Piano scelto: {plan} · {billing}",
+    "working": "Attendere…",
+    "legal": "Continuando accettate i {terms} e la {privacy}."
+  },
+  "notFound": {
+    "title": "Questa pagina non è nel menu.",
+    "cta": "Torna alla home"
+  },
+  "legal": {
+    "back": "Torna alla home",
+    "contents": "Indice",
+    "lastUpdated": "Ultimo aggiornamento: {date}",
+    "openChat": "Apri la messaggistica",
+    "englishOnly": "Questa pagina è disponibile solo in inglese."
+  },
+  "a11y": {
+    "skip": "Vai al contenuto",
+    "language": "Lingua",
+    "home": "Menuverse, home",
+    "mainNav": "Navigazione principale"
+  },
+  "common": {
+    "loading": "Caricamento…",
+    "prev": "Precedente",
+    "next": "Successivo",
+    "error": "Qualcosa è andato storto. Riprovate.",
+    "retry": "Riprovate"
+  },
+  "experience": {
+    "eyebrow": "La vostra esperienza",
+    "title": "Come volete vedere Menuverse?",
+    "lead": "Questo sito è progettato con grafica animata e 3D. Scegliete l’esperienza più adatta al vostro dispositivo.",
+    "recommended": "Consigliata",
+    "load": "Carico sul dispositivo",
+    "choose": "Scegli",
+    "full": {
+      "title": "Esperienza completa",
+      "body": "Tutta la grafica, il 3D e le animazioni, come progettati.",
+      "points": [
+        "3D ed effetti di luce dal vivo",
+        "Movimenti che seguono lo scorrimento",
+        "Ideale sui computer moderni"
+      ]
+    },
+    "light": {
+      "title": "Esperienza leggera",
+      "body": "Gli stessi contenuti, con transizioni morbide e meno carico.",
+      "points": [
+        "Senza 3D né effetti pesanti",
+        "Più veloce su ogni dispositivo",
+        "Risparmia la batteria"
+      ]
+    },
+    "note": "Potete cambiarla in qualsiasi momento con l’interruttore «{toggle}» in fondo alla pagina."
+  },
+  "admin": {
+    "title": "Amministrazione",
+    "subtitle": "Pannello di controllo Menuverse",
+    "tabs": {
+      "inbox": "Posta in arrivo",
+      "feedback": "Opinioni",
+      "newsletter": "Newsletter",
+      "referrals": "Inviti"
+    },
+    "search": "Cerca…",
+    "empty": "Ancora niente qui.",
+    "selectConversation": "Selezionate una conversazione.",
+    "replyPlaceholder": "Scrivete una risposta…",
+    "send": "Invia",
+    "open": "Aperta",
+    "closed": "Chiusa",
+    "closeConversation": "Chiudi conversazione",
+    "reopen": "Riapri",
+    "unread": "Non letto",
+    "col": {
+      "name": "Nome",
+      "email": "Email",
+      "rating": "Valutazione",
+      "purchased": "Acquisto",
+      "change": "Cambierebbe",
+      "feature": "Funzione desiderata",
+      "language": "Lingua",
+      "date": "Data",
+      "source": "Fonte",
+      "referrer": "Utente",
+      "code": "Codice",
+      "clicks": "Visite",
+      "signups": "Iscrizioni",
+      "status": "Premio"
+    },
+    "exportCsv": "Esporta CSV",
+    "subscribers": "{n} iscritti",
+    "purchasedMark": "Ha acquistato",
+    "saved": "Salvato",
+    "sortBy": "Ordina per {column}"
+  }
+}

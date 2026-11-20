@@ -1,0 +1,21 @@
+{
+  "name": "SupportConversation",
+  "type": "object",
+  "properties": {
+    "user_email": { "type": "string", "format": "email", "description": "Customer email" },
+    "user_name": { "type": "string", "description": "Customer name" },
+    "status": { "type": "string", "enum": ["open", "closed"], "enumColors": ["green", "gray"], "default": "open" },
+    "last_message_at": { "type": "string", "format": "date-time", "description": "Time of the latest message" },
+    "last_message_preview": { "type": "string", "maxLength": 200, "description": "Start of the latest message" },
+    "unread_by_admin": { "type": "boolean", "default": false },
+    "unread_by_user": { "type": "boolean", "default": false },
+    "language": { "type": "string", "description": "Site language when the conversation started" }
+  },
+  "required": ["user_email"],
+  "rls": {
+    "create": { "created_by_id": "{{user.id}}" },
+    "read": { "$or": [{ "created_by_id": "{{user.id}}" }, { "user_condition": { "role": "admin" } }] },
+    "update": { "$or": [{ "created_by_id": "{{user.id}}" }, { "user_condition": { "role": "admin" } }] },
+    "delete": { "user_condition": { "role": "admin" } }
+  }
+}

@@ -1,0 +1,513 @@
+{
+  "meta": {
+    "title": "Menuverse | Cartas digitales QR para restaurantes",
+    "description": "Menuverse crea cartas digitales QR para restaurantes, cafeterías y bares. Mejore su carta con un código QR, actualizaciones en tiempo real y soporte multilingüe. ¡Pruébelo gratis!"
+  },
+  "nav": {
+    "features": "Funcionalidades",
+    "howItWorks": "Cómo funciona",
+    "pricing": "Precios",
+    "login": "Iniciar sesión",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "account": "Cuenta",
+    "logout": "Cerrar sesión",
+    "admin": "Administración"
+  },
+  "theme": {
+    "toLight": "Tema claro",
+    "toDark": "Tema oscuro"
+  },
+  "langTip": {
+    "title": "🌐 Cambiar idioma",
+    "body": "Elija su idioma en el menú 🌐 aquí.",
+    "ok": "OK"
+  },
+  "hero": {
+    "eyebrow": "La revolución digital de su carta",
+    "h1": {
+      "line1": "Transforme su carta en una",
+      "line2": "experiencia digital"
+    },
+    "subtitle": "Cree cartas interactivas espectaculares que cautivarán a sus clientes y simplificarán la gestión de su negocio.",
+    "ctaPrimary": "Empiece gratis",
+    "ctaSecondary": "Ver la demo",
+    "chip1": {
+      "title": "Escanee el QR",
+      "sub": "Acceso inmediato"
+    },
+    "chip2": {
+      "title": "En tiempo real",
+      "sub": "Actualizaciones en directo"
+    }
+  },
+  "phone": {
+    "name": "La Bella Italia",
+    "tagline": "Auténtica cocina italiana",
+    "recipe": "Receta tradicional",
+    "tabs": {
+      "starters": "Entrantes",
+      "pizza": "Pizzas",
+      "pasta": "Pastas",
+      "desserts": "Postres"
+    }
+  },
+  "features": {
+    "eyebrow": "Funcionalidades",
+    "title": "Todo lo que necesita",
+    "lead": "Herramientas avanzadas para crear y gestionar su carta digital con total facilidad",
+    "qr": {
+      "title": "Cartas con código QR",
+      "body": "Sus clientes escanean el código QR y ven la carta al instante en su móvil. Sencillo y rápido."
+    },
+    "live": {
+      "title": "Actualizaciones al instante",
+      "body": "Cambie precios, platos o disponibilidad en segundos. Los cambios llegan automáticamente a todos sus clientes."
+    },
+    "templates": {
+      "title": "Diseños profesionales",
+      "body": "Elija entre decenas de plantillas listas para usar, acordes con la estética de su negocio."
+    },
+    "languages": {
+      "title": "Carta multilingüe",
+      "body": "Atienda a turistas extranjeros con cartas en varios idiomas, sin ningún esfuerzo adicional."
+    },
+    "analytics": {
+      "title": "Estadísticas y analítica",
+      "body": "Descubra qué platos prefieren sus clientes, sus horas punta y muchos otros datos útiles."
+    },
+    "dietary": {
+      "title": "Filtros alimentarios",
+      "body": "Sus clientes filtran fácilmente por opciones veganas, sin gluten, alérgenos y más."
+    },
+    "demo": {
+      "vegan": "Vegano",
+      "glutenFree": "Sin gluten",
+      "allergens": "Alérgenos",
+      "live": "En directo",
+      "views": "Vistas",
+      "peak": "Horas punta"
+    }
+  },
+  "support": {
+    "eyebrow": "Asistencia en directo",
+    "title": "¿Tiene preguntas? ¡Estamos aquí!",
+    "body": "Hable directamente con nuestro equipo. Le ayudaremos a empezar, responderemos a sus preguntas o le orientaremos sobre nuestros planes.",
+    "cta": "Inicie una conversación",
+    "note": "* Es necesario iniciar sesión para chatear",
+    "preview": {
+      "reply": "¡Por supuesto! Cuéntenos cómo es su restaurante y le recomendaremos el plan adecuado."
+    }
+  },
+  "how": {
+    "1": {
+      "title": "Regístrese",
+      "body": "Cree una cuenta gratuita en pocos segundos y acceda a su panel de control."
+    },
+    "2": {
+      "title": "Encargue su web",
+      "body": "Cuéntenos el estilo que prefiere: logotipo, colores, imágenes. Nosotros creamos su web tal y como la imagina, con rapidez y profesionalidad."
+    },
+    "3": {
+      "title": "Cree su carta",
+      "body": "Añada sus platos, suba fotos, fije los precios y personalice el diseño a su gusto."
+    },
+    "4": {
+      "title": "Compártala",
+      "body": "Nosotros generamos sus códigos QR únicos y se los entregamos listos para compartir al instante con sus clientes."
+    },
+    "eyebrow": "Cómo funciona",
+    "title": "Empiece en pocos minutos",
+    "lead": "Un proceso sencillo para tener su carta digital lista en un momento",
+    "demo": {
+      "business": "Nombre del negocio",
+      "price": "Precio",
+      "table": "Mesa {n}"
+    }
+  },
+  "demo": {
+    "eyebrow": "Véalo en acción",
+    "title": "Vea la demo",
+    "lead": "Descubra cómo Menuverse transforma un restaurante en pocos minutos.",
+    "play": "Reproducir",
+    "videoTitle": "Vídeo de demostración de Menuverse"
+  },
+  "showcase": {
+    "eyebrow": "Ejemplos reales",
+    "title": "Vea Menuverse en acción",
+    "lead": "Cartas digitales preciosas, creadas para restaurantes como el suyo",
+    "cta": "Ver la carta",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "newTab": "(se abre en una pestaña nueva)",
+    "frameTitle": "La carta de {name}"
+  },
+  "pricing": {
+    "eyebrow": "Precios",
+    "title": "Planes para cada necesidad",
+    "lead": "Pruébelo gratis y mejore su plan cuando quiera",
+    "monthly": "Mensual",
+    "yearly": "Anual",
+    "yearlyBadge": "Ahorre un 20% + dominio gratis",
+    "firstMonth": "El primer mes, después {price}/mes",
+    "billedYearly": "Facturación anual: {total}",
+    "popular": "El más popular",
+    "getStarted": "Empezar",
+    "contact": "Contáctenos",
+    "currency": "Moneda",
+    "billing": "Periodo de facturación",
+    "regularPrice": "Precio habitual",
+    "chatPrefill": "¡Hola! Me interesa el plan {plan} ({billing}, {currency}).",
+    "chatPrefillEnterprise": "¡Hola! Me interesa el plan Enterprise.",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "tagline": "Para cafeterías, bares y restaurantes",
+        "features": [
+          "1 carta digital",
+          "Plantillas básicas",
+          "Soporte por email",
+          "Marca personalizada",
+          "Multilingüe (2 idiomas)"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "tagline": "Para hosteleros profesionales",
+        "features": [
+          "Plantillas premium",
+          "Panel de analítica",
+          "Soporte prioritario",
+          "Marca personalizada",
+          "Multilingüe (hasta 4 idiomas)",
+          "Sugerencias con IA para mejorar títulos y ahorrar tiempo"
+        ]
+      },
+      "devoted": {
+        "name": "Devoted",
+        "tagline": "Para hosteleros comprometidos",
+        "features": [
+          "Todo lo del plan Professional",
+          "White Labelling",
+          "Multilingüe (hasta 6 idiomas)",
+          "Soporte prioritario del plan Devoted",
+          "Analítica avanzada",
+          "Sugerencias con IA para mejorar títulos y ahorrar tiempo"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "tagline": "Para cadenas de restauración",
+        "priceTop": "Precio",
+        "priceBottom": "a medida",
+        "features": [
+          "Todo lo del plan Devoted",
+          "Soporte dedicado",
+          "Integraciones a medida",
+          "White Label",
+          "Descuentos por volumen",
+          "Sugerencias con IA para mejorar títulos y ahorrar tiempo"
+        ]
+      }
+    }
+  },
+  "referral": {
+    "eyebrow": "Programa de recomendación",
+    "title": "¡Consiga su carta GRATIS!",
+    "body": "¡Corra la voz y gane recompensas! Recomiéndenos a 3 amigos y consiga una carta digital completa totalmente gratis.",
+    "learnMore": "Más información",
+    "start": "Empezar",
+    "dashboard": "Panel",
+    "step1": "Genere su enlace",
+    "step2": "Compártalo",
+    "step3": "Sus amigos obtienen un 50% de descuento",
+    "step4": "Consiga 3 = Gane una carta GRATIS",
+    "ticket": "CARTA GRATIS",
+    "you": "Usted",
+    "friend": "Amigo",
+    "copy": "Copiar",
+    "copied": "¡Copiado!",
+    "progress": "{count} / 3 amigos",
+    "linkLabel": "Su enlace de recomendación",
+    "share": "Compartir",
+    "shareText": "Obtenga su menú digital con un 50 % de descuento en Menuverse: {link}",
+    "clicks": "Clics",
+    "reward": "Recompensa",
+    "status": {
+      "pending": "Pendiente",
+      "earned": "Obtenida",
+      "redeemed": "Canjeada"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Opiniones",
+    "title": "Lo que dicen de nosotros...",
+    "lead": "Descubra qué opinan los hosteleros que usan Menuverse",
+    "items": {
+      "anima": {
+        "quote": "¡Todo funciona de maravilla! Ya hemos empezado a añadir fotos a nuestra carta y todo va perfecto. ¡Muchas gracias!",
+        "role": "Restaurante, Atenas",
+        "circularText": "ATHENS ANIMA BISTRO ✦ RESTAURANTE, ATENAS ✦"
+      }
+    }
+  },
+  "guide": {
+    "badge": "Próximamente",
+    "title": "Dos nuevas formas de enamorarte de una carta",
+    "lead": "Una guía cuidada de las mejores mesas del mundo y cada plato en 3D, antes de que pidas.",
+    "a": {
+      "title": "La Guía Menuverse",
+      "body": "Una red selecta de restaurantes que merecen el viaje, visitados en persona y distinguidos con un emblema."
+    },
+    "b": {
+      "title": "Mira el plato en 3D",
+      "body": "Gira cualquier plato delante de ti y míralo desde todos los ángulos antes de pedir.",
+      "hint": "Arrastra para explorar"
+    },
+    "c": {
+      "label": "En preparación",
+      "title": "Menús digitales gratuitos, con el apoyo de socios",
+      "body": "Estamos preparando colaboraciones con cerveceras, empresas de bebidas espirituosas y de refrescos, para que los restaurantes obtengan su menú digital gratis. A cambio, el menú destaca discretamente las bebidas del socio.",
+      "points": [
+        "Coste cero para el restaurante",
+        "Sugerencias de bebidas discretas dentro del menú",
+        "Los clientes ven el menú como siempre"
+      ],
+      "partners": [
+        "Cerveceras",
+        "Bebidas espirituosas",
+        "Refrescos"
+      ],
+      "sponsored": "Destacado del socio",
+      "drink": "Cerveza de barril",
+      "free": "Gratis"
+    },
+    "footnote": "Llegará primero a los restaurantes Menuverse"
+  },
+  "cursor": {
+    "drag": "Arrastra"
+  },
+  "feedback": {
+    "eyebrow": "Su opinión cuenta",
+    "title": "Envíenos sus comentarios",
+    "lead": "Ayúdenos a mejorar compartiendo su experiencia y sus sugerencias",
+    "name": "Su nombre *",
+    "rating": "¿Cómo nos valoraría? *",
+    "purchased": "¿Ha comprado alguna carta? *",
+    "yes": "Sí",
+    "no": "No",
+    "change": "¿Qué cambiaría? *",
+    "feature": "¿Qué funcionalidad le gustaría ver? *",
+    "submit": "Enviar comentarios",
+    "sending": "Enviando…",
+    "star": "{n} de 5 estrellas",
+    "required": "Este campo es obligatorio",
+    "success": {
+      "title": "¡Gracias!",
+      "body": "Hemos recibido sus comentarios."
+    },
+    "error": "Algo ha salido mal. Inténtelo de nuevo."
+  },
+  "articles": {
+    "eyebrow": "Guías y artículos",
+    "title": "Carta digital y menú QR: todo lo que necesitas saber",
+    "lead": "Descubre cómo una carta digital con QR puede transformar tu restaurante, cafetería o bar: de forma rápida, sencilla y económica.",
+    "read": "Lee el artículo",
+    "readTime": "⏱ {n} min de lectura",
+    "readerCta": "Empieza gratis con Menuverse",
+    "ctaStrip": {
+      "title": "¿Listo para crear la carta digital de tu restaurante?",
+      "button": "Empieza gratis"
+    },
+    "close": "Cerrar artículo",
+    "prev": "Artículo anterior",
+    "next": "Artículo siguiente"
+  },
+  "newsletter": {
+    "eyebrow": "Manténgase informado",
+    "title": "Suscríbase a nuestra newsletter",
+    "lead": "Reciba las últimas novedades sobre funcionalidades, consejos y ofertas exclusivas.",
+    "emailLabel": "Su email",
+    "submit": "Suscribirse",
+    "privacy": "🔒 Respetamos su privacidad. Puede darse de baja en cualquier momento.",
+    "success": "¡Suscripción confirmada! Nos vemos pronto en su bandeja de entrada.",
+    "duplicate": "Este email ya está suscrito.",
+    "invalid": "Introduzca un email válido.",
+    "placeholders": [
+      "info@su-restaurante.es",
+      "chef@taberna.es",
+      "hola@cafeteria.es"
+    ]
+  },
+  "final": {
+    "title": "¿Listo para digitalizar su carta?",
+    "body": "Únase a miles de negocios que ya han dado el salto",
+    "cta": "Empiece gratis ahora"
+  },
+  "footer": {
+    "brand": "Menuverse",
+    "description": "Creamos cartas digitales modernas para hosteleros profesionales de toda Grecia.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© {year} Menuverse. Todos los derechos reservados.",
+    "wordmark": "MENUVERSE",
+    "reduceMotion": "Reducir movimiento",
+    "col": {
+      "navigate": "Navegación",
+      "legal": "Legal"
+    }
+  },
+  "chat": {
+    "name": "Menuverse",
+    "greeting": "👋 ¡Hola! ¿Necesita ayuda con una carta digital o un código QR? ¡Aquí estoy!",
+    "signInRequired": "* Es necesario iniciar sesión para chatear",
+    "signIn": "Iniciar sesión",
+    "placeholder": "Escriba un mensaje...",
+    "send": "Enviar",
+    "online": "Online",
+    "open": "Abrir chat",
+    "typing": "Escribiendo…",
+    "error": "No se ha podido enviar el mensaje. Inténtelo de nuevo.",
+    "you": "Usted",
+    "team": "Equipo Menuverse",
+    "empty": "Inicie la conversación con un mensaje.",
+    "unread": "{count} mensajes nuevos"
+  },
+  "login": {
+    "back": "Volver",
+    "title": "Bienvenido de nuevo",
+    "subtitle": "Bienvenido",
+    "google": "Continuar con Google",
+    "microsoft": "Continuar con Microsoft",
+    "or": "o",
+    "email": "Correo electrónico",
+    "password": "Contraseña",
+    "forgot": "¿Ha olvidado su contraseña?",
+    "submit": "Iniciar sesión",
+    "noAccount": "¿No tiene cuenta? Regístrese",
+    "noAccountPrompt": "¿No tiene cuenta?",
+    "registerLink": "Regístrese",
+    "haveAccountPrompt": "¿Ya tiene cuenta?",
+    "signInLink": "Inicie sesión",
+    "registerTitle": "Cree su cuenta",
+    "registerSubtitle": "Empiece con Menuverse en pocos minutos",
+    "registerSubmit": "Crear cuenta",
+    "passwordHint": "Al menos 8 caracteres",
+    "showPassword": "Mostrar contraseña",
+    "hidePassword": "Ocultar contraseña",
+    "otpTitle": "Confirme su email",
+    "otpBody": "Hemos enviado un código de 6 dígitos a {email}.",
+    "otpLabel": "Código de confirmación",
+    "otpSubmit": "Confirmar",
+    "otpResend": "Enviar un código nuevo",
+    "otpResent": "Le hemos enviado un código nuevo.",
+    "forgotTitle": "Restablecer contraseña",
+    "forgotBody": "Escriba su email y le enviaremos un enlace para restablecerla.",
+    "forgotSubmit": "Enviar enlace",
+    "forgotSent": "Si existe una cuenta con ese email, recibirá el enlace en breve.",
+    "backToSignIn": "Volver a iniciar sesión",
+    "errorCredentials": "Email o contraseña incorrectos.",
+    "errorExists": "Ya existe una cuenta con este email.",
+    "errorOtp": "El código no es correcto o ha caducado.",
+    "errorPassword": "La contraseña necesita al menos 8 caracteres.",
+    "errorEmail": "Introduzca un email válido.",
+    "signedIn": "Ya ha iniciado sesión como {email}.",
+    "continue": "Continuar",
+    "plan": "Plan elegido: {plan} · {billing}",
+    "working": "Espere, por favor…",
+    "legal": "Al continuar, acepta los {terms} y la {privacy}."
+  },
+  "notFound": {
+    "title": "Esta página no está en el menú.",
+    "cta": "Volver al inicio"
+  },
+  "legal": {
+    "back": "Volver al inicio",
+    "contents": "Índice",
+    "lastUpdated": "Última actualización: {date}",
+    "openChat": "Abrir la mensajería",
+    "englishOnly": "Esta página solo está disponible en inglés."
+  },
+  "a11y": {
+    "skip": "Saltar al contenido",
+    "language": "Idioma",
+    "home": "Menuverse, inicio",
+    "mainNav": "Navegación principal"
+  },
+  "common": {
+    "loading": "Cargando…",
+    "prev": "Anterior",
+    "next": "Siguiente",
+    "error": "Algo ha salido mal. Inténtelo de nuevo.",
+    "retry": "Reintentar"
+  },
+  "experience": {
+    "eyebrow": "Su experiencia",
+    "title": "¿Cómo desea ver Menuverse?",
+    "lead": "Este sitio está diseñado con gráficos en movimiento y 3D. Elija la experiencia que mejor se adapte a su dispositivo.",
+    "recommended": "Recomendada",
+    "load": "Carga del dispositivo",
+    "choose": "Elegir",
+    "full": {
+      "title": "Experiencia completa",
+      "body": "Todos los gráficos, el 3D y las animaciones, tal como se diseñaron.",
+      "points": [
+        "3D y efectos de luz en vivo",
+        "Movimiento que sigue su desplazamiento",
+        "Ideal para ordenadores modernos"
+      ]
+    },
+    "light": {
+      "title": "Experiencia ligera",
+      "body": "El mismo contenido, con transiciones suaves y menos carga.",
+      "points": [
+        "Sin 3D ni efectos pesados",
+        "Más rápida en cualquier dispositivo",
+        "Ahorra batería"
+      ]
+    },
+    "note": "Puede cambiarla en cualquier momento con el interruptor «{toggle}» al final de la página."
+  },
+  "admin": {
+    "title": "Administración",
+    "subtitle": "Panel de control de Menuverse",
+    "tabs": {
+      "inbox": "Bandeja de entrada",
+      "feedback": "Opiniones",
+      "newsletter": "Newsletter",
+      "referrals": "Referidos"
+    },
+    "search": "Buscar…",
+    "empty": "Aún no hay nada aquí.",
+    "selectConversation": "Seleccione una conversación.",
+    "replyPlaceholder": "Escriba una respuesta…",
+    "send": "Enviar",
+    "open": "Abierta",
+    "closed": "Cerrada",
+    "closeConversation": "Cerrar conversación",
+    "reopen": "Reabrir",
+    "unread": "No leído",
+    "col": {
+      "name": "Nombre",
+      "email": "Email",
+      "rating": "Valoración",
+      "purchased": "Compra",
+      "change": "Cambiaría",
+      "feature": "Función deseada",
+      "language": "Idioma",
+      "date": "Fecha",
+      "source": "Origen",
+      "referrer": "Usuario",
+      "code": "Código",
+      "clicks": "Visitas",
+      "signups": "Registros",
+      "status": "Recompensa"
+    },
+    "exportCsv": "Exportar CSV",
+    "subscribers": "{n} suscriptores",
+    "purchasedMark": "Compró",
+    "saved": "Guardado",
+    "sortBy": "Ordenar por {column}"
+  }
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /referrals
+Disallow: /login
+
+Sitemap: https://menuverse.eu/sitemap.xml
